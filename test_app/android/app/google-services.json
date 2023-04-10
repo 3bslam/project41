@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238893418045",
+    "project_id": "trattmento",
+    "storage_bucket": "trattmento.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238893418045:android:f628d21e06371e32a08c54",
+        "android_client_info": {
+          "package_name": "com.exampletest.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238893418045-ror0ae3scsq7gokm3oqo7e11ubk3a1m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Wr7LWi1Os6MGiPvCYAjhrCxrT5a2fWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238893418045-ror0ae3scsq7gokm3oqo7e11ubk3a1m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
